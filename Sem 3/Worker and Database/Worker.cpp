@@ -5,9 +5,9 @@
 Worker::Worker()
 {
 	name_ = new char[30];
-	name_[0] = 0; 
-	born_date_[0] = 0; 
-	hire_date_[0] = 0; 
+	name_[0] = 0;
+	born_date_[0] = 0;
+	hire_date_[0] = 0;
 	salary_ = 0;
 }
 
